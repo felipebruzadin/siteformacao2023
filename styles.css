@@ -30,13 +30,13 @@ padding: 50px 0;
 .rodape{
     background-color: black;
     text-align: center;
-    padding: 20px 0;
+    padding: 15px 0;
 }
 
 .rodape-imagem1{
-    width: 20%;
+    height: 60px;
 }
 
 .rodape-imagem2{
-    width: 15%;
+    height: 60px;
 }
